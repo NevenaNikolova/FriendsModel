@@ -1,0 +1,1 @@
+A1,Annie,25,Bored,|J1,John,35,Happy;Calm,M2|M2,Mary,28,Bored,J1;J2|J2,Jack,30,Angry,J1;P1|P1,Peter,20,Happy;Angry,A1;M2
